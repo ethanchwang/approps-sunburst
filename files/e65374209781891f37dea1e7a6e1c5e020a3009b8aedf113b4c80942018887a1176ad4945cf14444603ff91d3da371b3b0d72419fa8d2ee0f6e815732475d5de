@@ -1,0 +1,198 @@
+{
+"name": "flare",
+"children": [{
+ "name": "Appropriations Wins",
+ "children": [
+  {
+   "name": "State and Foreign Ops",
+   "children": [
+    {"name": "Caribbean Base - $82m", "value": 16000},
+    {"name": "CBSI Resilience - $17m", "value": 16000},
+    {"name": "Caribbean Energy - $3m", "value": 16000},
+    {"name": "Green Climate - $350m", "value": 16000},
+    {"name": "Clean Energy - $490m", "value": 16000},
+    {"name": "Adaptation Pgms. - $450m", "value": 16000},
+    {"name": "Sustainable Land. - $300m", "value": 16000},
+    {"name": "Adaptation Fund - $100m", "value": 16000},
+    {"name": "UNFCCC&IPCC - $21m", "value": 16000}
+   ]
+  },
+  {
+   "name": "Commerce, Justice, Sci.",
+   "children": [
+    {"name": "Hispanic Inst. - $60m", "value": 10000},
+    {"name": "ATF - $1.733b", "value": 10000},
+    {"name": "Community Intvn.- $150m", "value": 10000},
+    {"name": "Community Policing- $541m", "value": 10000},
+    {"name": "Title V Grants - $65m", "value": 10000},
+    {"name": "Natl Backgrd Check - $410m", "value": 10000},
+    {"name": "Byrne JAG - $417m", "value": 10000},
+    {"name": "EOIR - $964m", "value": 10000},
+    {"name": "STOP Grants - $225m", "value": 10000},
+    {"name": "CSSP - $12.4m", "value": 10000},
+    {"name": "VAW Rural Grant - $50m", "value": 10000},
+    {"name": "VAWA Youth - $42m", "value": 10000},
+    {"name": "Legal Assistance - $55m", "value": 10000}
+   ]
+  },
+  {
+   "name": "Defense",
+   "children": [
+    {"name": "Ukraine Security - $300m", "value": 10000},
+    {"name": "World Language - $15m", "value": 10000},
+    {"name": "Baltic Security - $225m", "value": 10000},
+    {"name": "Fisher House Fdn. - $5m", "value": 10000},
+    {
+        "name": "Cancer Research",
+        "children": [
+        {"name": "Ovarian Cancer Research - $45m", "value": 10000},
+        {"name": "Rare Cancer Research - $130m", "value": 10000},
+        {"name": "Breast Cancer Research - $150m", "value": 10000},
+        {"name": "Prostate Cancer Research - $110m", "value": 10000}
+        ]
+    },
+    {"name": "Active Dutiy Mental Health", "value": 10000}
+   ]
+  },
+  {
+   "name": "Agriculture",
+   "children": [
+    {"name": "Farmer's Market - $30m", "value": 10000},
+    {"name": "Rural Dev - $4.2b", "value": 10000},
+    {"name": "Women and Infants - $6b", "value": 10000},
+    {"name": "Child Nutrition Pgm - $28.6b", "value": 10000},
+    {"name": "Nutrition Assis. - $111b", "value": 10000},
+    {"name": "Emer Food Assis. - $100m", "value": 10000}
+   ]
+  },
+  {
+   "name": "Energy and Water",
+   "children": [
+    {
+        "name": "Army Corps of Engineers",
+        "children": [
+        {"name": "Investigations - $160m", "value": 10000},
+        {"name": "Construction - $2.475b", "value": 10000}
+        ]
+    },
+    {"name": "Energy Efficiency - $562m", "value": 10000}
+   ]
+  },
+  {
+   "name": "Financial Services",
+   "children": [
+    {"name": "Inwood Merchant - $1.7m", "value": 10000},
+    {"name": "La Marqueta - $1.25m", "value": 10000},
+    {"name": "Greater Harlem Cbr - $1.1m", "value": 10000},
+    {"name": "Davidson Comm - $800k", "value": 10000},
+    {"name": "Hispanic Fed - $1m", "value": 10000},
+    {"name": "Growth Accl Fund - $5m", "value": 10000},
+    {"name": "Small Business - $145m", "value": 10000},
+    {"name": "Women's Business - $30m", "value": 10000},
+    {"name": "State Trade - $22m", "value": 10000},
+    {"name": "CDFI Fund - $336m", "value": 10000},
+    {"name": "CDFI Loan - $10m", "value": 10000},
+    {"name": "Healthy Food Fin - $24m", "value": 10000},
+    {"name": "IRS - $13.6b", "value": 10000}
+   ]
+  },
+  {
+   "name": "Interior and Environment",
+   "children": [
+    {"name": "EPA-Urban Waters - $243m", "value": 10000},
+    {"name": "Justice40 - $225k", "value": 10000},
+    {"name": "9/11 Memorial - $4m", "value": 10000},
+    {"name": "Hazardous Acct - $1.31b", "value": 10000}
+   ]
+  },
+  {
+   "name": "Legislative Branch",
+   "children": [
+    {"name": "House Intern Office", "value": 16000},
+    {
+     "name": "U.S. Capitol Police",
+     "children": [
+      {"name": "OIG Reports", "value": 16000},
+      {"name": "Arrest Summary Data", "value": 16000},
+      {"name": "Body Camera Equipment", "value": 16000}
+     ]
+    },
+    {"name": "Civics and Dem", "value": 16000},
+    {"name": "Library of Congress - $831m", "value": 16000},
+    {"name": "Report on GAO", "value": 16000},
+    {"name": "Leg Branch Data", "value": 16000},
+    {"name": "Hire DACA Recipients", "value": 16000}
+   ]
+  },
+  {
+   "name": "Military Construction",
+   "children": [
+    {"name": "Women's Health - $911m", "value": 10000},
+    {"name": "VA Facilities - $911m", "value": 10000},
+    {"name": "Women Health Ofc - $911m", "value": 10000},
+    {"name": "Military Child Dev - $274m", "value": 10000},
+    {"name": "Veterans Toxic Exposure", "value": 10000},
+    {"name": "Veterans Crisis", "value": 10000},
+    {
+     "name": "Homeless Veterans - $2.6b",
+     "children": [
+      {"name": "Healthcare", "value": 10000},
+      {"name": "Homeless Providers Grant", "value": 10000},
+      {"name": "Domiciliary Care", "value": 10000}
+     ]
+    }
+   ]
+  },
+  {
+    "name": "Homeland Security",
+    "children": [
+     {"name": "Special Immigrant Juvenile", "value": 10000},
+     {"name": "USCIS - $683m", "value": 10000},
+     {"name": "UASI - $615m", "value": 10000},
+     {"name": "TSG - $105m", "value": 10000},
+     {"name": "Nonprofit Sec Grant - $360m", "value": 10000},
+     {"name": "Firefighter Grants - $740m", "value": 10000},
+     {"name": "Incident Video Rec  - $45m", "value": 10000},
+     {"name": "Emer Food/Shelter - $280m", "value": 10000}
+    ]
+   },
+  {
+   "name": "Transportation and HUD",
+   "children": [
+    {"name": "Capital Invest Grants - $3b", "value": 16000},
+    {"name": "Fire Hazard Mitigation", "value": 16000},
+    {"name": "Housing Vouchers", "value": 16000},
+    {"name": "Transportation Inf - $100m", "value": 16000},
+    {"name": "Safe Streets for All - $100m", "value": 16000},
+    {"name": "Healthy Streets Pgm - $44m", "value": 16000},
+    {"name": "Complete Streets", "value": 16000},
+    {"name": "Capital Housing Fund - $8.7b", "value": 16000},
+    {"name": "Housing Operating Fund - $5b", "value": 16000},
+    {"name": "Section 202 Housing - $1.2b", "value": 16000},
+    {"name": "Amtrak NE Corridor - $1.2b", "value": 16000},
+    {"name": "McKinney Vento Grt - $3.6b", "value": 16000},
+    {"name": "Community Dev Grt - $3.3b", "value": 16000},
+    {"name": "American Inf Grnts - $775m", "value": 16000}
+   ]
+  },
+  {
+    "name": "Labor, HHS, and Education",
+    "children": [
+     {"name": "Comm Block Grant - $800m", "value": 10000},
+     {"name": "Healthcare Credentials", "value": 10000},
+     {"name": "English Learner Resources", "value": 10000},
+     {"name": "Teacher Partner Grt - $132m", "value": 10000},
+     {"name": "Head Start Grant - $12.4b", "value": 10000},
+     {"name": "Title V - HSI - $247m", "value": 10000},
+     {"name": "YouthBuild - $145m", "value": 10000},
+     {"name": "Opioid Treatment", "value": 10000},
+     {"name": "TRIO Edu Services - $1.3b", "value": 10000},
+     {"name": "Title VII Dev - $324m", "value": 10000},
+     {"name": "School Health Ctr - $50m", "value": 10000},
+     {"name": "Comm Health Ctr - $1.95b", "value": 10000},
+     {"name": "Childcare Block Grt - $7.2b", "value": 10000},
+     {"name": "SAMHSA Funding - $9b", "value": 10000}
+    ]
+   }
+ ]}]
+}
