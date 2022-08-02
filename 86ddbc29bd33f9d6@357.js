@@ -1,3 +1,5 @@
+// Copyright 2018–2020 Observable, Inc.
+
 function _1(md){return(
   md``
   )}
